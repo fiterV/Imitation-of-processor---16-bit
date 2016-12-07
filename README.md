@@ -8,8 +8,8 @@ Imitation of <b>16 bit</b> processor work with <b>4</b> registers
 	<li><b>add</b> RX RY </li>
 	<li><b>mod</b> RX RY </li>
 </ul>
-RX - should be always one of 4 registers(R1-R4) otherwise command
-RY - can be either a register or an <b>INTEGER</b> number
+<b>RX</b> - should be always one of 4 registers<b>(R1-R4)</b> otherwise command
+<b>RY</b> - can be either a register or an <b>INTEGER</b> number
 
 
 <h6>Screenshot</h6>
